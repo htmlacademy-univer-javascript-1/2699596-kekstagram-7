@@ -1,3 +1,4 @@
+import './upload-effects.js';
 import './upload-form.js';
 import {photos} from './data.js';
 import {renderPictures} from './pictures.js';
